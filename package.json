@@ -3,6 +3,7 @@
 	"author": "krithi",
 	"description": "learn to play around with node projects",
 	"keywords": [ "learning", "excercise", "node", "freecodecamp" ],
+	"license": "ABCD",
 	"dependencies": {
 		"express": "^4.19.2"
 	},
