@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "krithi",
-	"description": "learn to play around with node projects"
+	"description": "learn to play around with node projects",
 	"dependencies": {
 		"express": "^4.19.2"
 	},
