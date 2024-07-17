@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "krithi",
 	"description": "learn to play around with node projects",
+	"keywords": [ "learning", "excercise", "node" ],
 	"dependencies": {
 		"express": "^4.19.2"
 	},
