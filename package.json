@@ -6,7 +6,6 @@
 	"license": "ABCD",
 	"version": "1.2.0",
 	"dependencies": {
-		"@freecodecamp/example": "^1.2.13",
 		"express": "^4.19.2"
 	},
 	"main": "server.js",
