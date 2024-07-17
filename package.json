@@ -4,6 +4,7 @@
 	"description": "learn to play around with node projects",
 	"keywords": [ "learning", "excercise", "node", "freecodecamp" ],
 	"license": "ABCD",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.19.2"
 	},
